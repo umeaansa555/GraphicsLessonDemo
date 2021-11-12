@@ -41,7 +41,6 @@ namespace GraphicsLessonDemo
             g.DrawPie(redPen, 250, 20, 50, 50, 60, 60);
             g.DrawPie(greenPen, 250, 20, 50, 50, 90, 60);
 
-
         }
     }
 }
